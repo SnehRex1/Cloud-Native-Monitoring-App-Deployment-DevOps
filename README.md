@@ -3,4 +3,5 @@ Cloud-native Monitoring Application Deployment on Kubernetes with the help of Do
 
 Architecture of Project:-
 
-![image](https://github.com/SnehRex1/Cloud-Native-Monitoring-App-Deployment-DevOps/assets/72256546/bf85b7f0-d8b7-4aaf-b98f-df82d83045a4)
+![image](https://github.com/SnehRex1/Cloud-Native-Monitoring-App-Deployment-DevOps/assets/72256546/8bab89a6-64fe-43cb-92e7-fa549db91869)
+
