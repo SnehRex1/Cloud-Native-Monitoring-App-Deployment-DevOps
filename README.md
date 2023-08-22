@@ -19,4 +19,11 @@ Docker image pushed to ECR :-
 
 ![image](https://github.com/SnehRex1/Cloud-Native-Monitoring-App-Deployment-DevOps/assets/72256546/9a65303d-4430-410c-8f9f-874e67f1230b)
 
+AWS EKS cluster created and app deployed using Python :-
 
+![image](https://github.com/SnehRex1/Cloud-Native-Monitoring-App-Deployment-DevOps/assets/72256546/96e2463d-53f2-41aa-9811-e2af075925fa)
+
+![image](https://github.com/SnehRex1/Cloud-Native-Monitoring-App-Deployment-DevOps/assets/72256546/6ad09d79-eaac-4894-8360-f8b6012f741f)
+
+
+THANK YOU!!!
